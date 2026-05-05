@@ -44,7 +44,7 @@ Collab?     · Fuhhh yuhhh
 ## Past Projects
 
 - 🎯 **[MyCareerMate](https://mycareermate.io)** - the one i genuinely believed in. co-founded this, got an influencer on board, pumped the waitlist to 200+ people who were actually waiting. learned the hard way that building with people is a different skill than building alone. walked off the project — my non-technical co-founder is still pushing it. founded by me, no longer active on it.
-- 🗂️ **[Techfolio](https://techfolio.gg)** - portfolio builder for developers. fill in your projects, pick a template, get a shareable portfolio without touching design or SEO. the only project where i actually shipped a real feature and tried to get users.
+- 🗂️ **[Techfolio](https://techfolio.rohitbajaj.dev)** - portfolio builder for developers. fill in your projects, pick a template, get a shareable portfolio without touching design or SEO. the only project where i actually shipped a real feature and tried to get users.
 
 ## Experiments & Unfinished Things
 
