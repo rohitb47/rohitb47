@@ -54,9 +54,9 @@ Collab?     · Fuhhh yuhhh
 - 💬 **[Astrid](https://astrid.rohitbajaj.dev)** - built to understand how LLM chat systems work from the inside. functional chat app, but that was never really the point. the point was the micro interactions, the feel, the aesthetic. worth a look if you care about that kind of thing.
 - 🧭 **[DishaAI](https://disha.rohitbajaj.dev)** - an AI career assistant for job seekers in the age of AI. the idea was a context-aware agent that actually understands where you are in your career and helps you navigate what's next. got deep into the UI and the chat flow. never made it to the agent part.
 - 🔒 **[PickLocker](https://picklocker.rohitbajaj.dev)** - bugcrowd but for indie hackers and solo devs. the idea was a lightweight crowdsourced bug bounty platform where small teams could get real security feedback without enterprise pricing. solid concept. never left the code editor.
-- 📡 **[Shipth.at](https://shipth.at)** - embeddable widgets you drop on your site to figure out what features users actually want before you build them. a feedback layer for makers who don't want to guess. spent a lot of time on the widget UI. never shipped a working integration.
+- 📡 **[Shipth.at](https://shipthat.rohitbajaj.dev)** - embeddable widgets you drop on your site to figure out what features users actually want before you build them. a feedback layer for makers who don't want to guess. spent a lot of time on the widget UI. never shipped a working integration.
 - 🤖 **[BurritoBase](https://burritobase.rohitbajaj.dev)** - a CLI-first project management tool for solo devs building with AI. think Linear meets Trello but lives in your terminal and understands your codebase. was thinking about this before AI-native tooling became a category.
-- ... and a lot more sitting in repos i haven't opened since — example, gpt-utils (chrome extention), grocify (cheap grocery list)
+- ... and a lot more sitting in repos i haven't opened since — example, gpt-utils (chrome extention), grocify (cheap grocery list) etc.
 
 ## Fun Facts
 
