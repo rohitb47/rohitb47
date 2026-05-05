@@ -43,10 +43,7 @@ Collab?     · Fuhhh yuhhh
 
 ## Past Projects
 
-[ Coming Soon ]
-
-<!-- Add your projects here -->
-<!-- - 🚀 **[Project Name](https://github.com/rohitb47/project)** - Short description -->
+- 🧪 **[Void Studio](https://voidstudio.rohitbajaj.dev)** - built when MCP was new and remote MCP hosts weren't a thing yet. started as an experiment with agents before agentic workflows were mainstream — ended up as a frontend playground. never shipped anything agent-like, but spent a lot of time on the UI. uncommon aesthetic, lots of experiments. worth a look just for the interface.
 
 ## GitHub Activity
 
