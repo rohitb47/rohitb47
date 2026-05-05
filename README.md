@@ -4,10 +4,10 @@
 
 ```
 From        · Suburbs of Punjab, India 🇮🇳
-Based       · Melbourne, Australia 🇦🇺
+atm         · Melbourne, Australia 🇦🇺
 
 Now         · Jr. Dev @ tribalgroup.com
-Past Work   · FDE @ lyratechnologies.com.au [ Deployed on - paraform.com, virtualstaging.art ]
+Past        · FDE @ lyratechnologies.com.au [ Deployed on - paraform.com, virtualstaging.art ]
             · Casual Academic @ deakin.edu.au [ Intro to Programming, Capstone Mentor ]
             · Frontend @ sindy.ai [ startup now dead, i worked on core software ]
 
