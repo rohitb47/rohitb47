@@ -36,9 +36,9 @@ Collab?     · Fuhhh yuhhh
 
 <!-- Add your projects here -->
 
-- 💰 **[47Studio](https://47studio.vercel.app)** - solo dev shop in the age of AI. shipping real stuff for real clients. 3+ clients, may 2026.
+- 💰 **[47Studio](https://47studio.rohitbajaj.dev)** - solo dev shop in the age of AI. shipping real stuff for real clients. 3+ clients, may 2026.
 - 🚀 **[PreFlight](https://preflight.rohitbajaj.dev)** - stop building things nobody wants. validate your idea before writing a single line of code.
-- 🥇 **[Git Stats](https://git-stats047.vercel.app)** - github's contribution view, but actually good.
+- 🥇 **[Git Stats](https://git-stats.rohitbajaj.dev)** - github's contribution view, but actually good.
 
 ## Past Projects
 
