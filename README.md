@@ -6,7 +6,7 @@
 From        · Suburbs of Punjab, India 🇮🇳
 Based       · Melbourne, Australia 🇦🇺
 
-Now         · Jr. Dev @ Tribal Group
+Now         · Jr. Dev @ tribalgroup.com
 Past Work   · FDE @ lyratechnologies.com.au [ Deployed on - paraform.com, virtualstaging.art ]
             · Casual Academic @ deakin.edu.au [ Intro to Programming, Capstone Mentor ]
             · Frontend @ sindy.ai [ startup now dead, i worked on core software ]
@@ -56,5 +56,3 @@ Collab?     · Fuhhh yuhhh
 [![X](https://img.shields.io/badge/-its0x47-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/its0x47)
 [![LinkedIn](https://img.shields.io/badge/-Rohit_Bajaj-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohitb47)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohitb47)
-
----
