@@ -39,6 +39,7 @@ Collab?     · Fuhhh yuhhh
 - 💰 **[47Studio](https://47studio.rohitbajaj.dev)** - solo dev shop in the age of AI. shipping real stuff for real clients. 3+ clients, may 2026.
 - 🚀 **[PreFlight](https://preflight.rohitbajaj.dev)** - stop building things nobody wants. validate your idea before writing a single line of code.
 - 🥇 **[Git Stats](https://git-stats.rohitbajaj.dev)** - github's contribution view, but actually good.
+- 🧑‍💻 **[Portfolio](https://rohitbajaj.dev)** - personal site. built brick by brick. work in progress.
 
 ## Past Projects
 
