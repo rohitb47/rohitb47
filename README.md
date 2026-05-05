@@ -36,7 +36,10 @@ Collab?     · Fuhhh yuhhh
 
 <!-- Add your projects here -->
 
-- 📈 **[Git Stats](https://github.com/rohitb47/git-stats)** - flex your git stats to employers and world.
+- 💰 **[47Studio](https://47studio.vercel.app)** - freelance technology services [ 6+ clients ]
+- 🚀 **[PreFlight](https://preflight.rohitbajaj.dev)** - flex your git stats to employers and world.
+- 🥇 **[Git Stats](https://git-stats047.vercel.app)** - flex your git stats to employers and world.
+
 
 ## Past Projects
 
