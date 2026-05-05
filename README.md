@@ -2,6 +2,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=FFFFFF&center=false&vCenter=true&width=700&lines=Hi%2C+I'm+Rohit+%F0%9F%91%8B;Builder.+Thinker.+Always+Curious." alt="Typing SVG" />
 </a>
 
+<br/>
+
 ```
 From        · Suburbs of Punjab, India 🇮🇳
 Based       · Melbourne, Australia 🇦🇺
@@ -12,9 +14,10 @@ Past Work   · FDE @ lyratechnologies.com.au [ Deployed on - paraform.com, virtu
             · Frontend @ sindy.ai [ startup now dead, i worked on core software ]
 
 Building    · Random Things as they come [ small, big, world changing, all]
-
 Collab?     · Fuhhh yuhhh
 ```
+
+<br/>
 
 ![Next JS](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -35,8 +38,7 @@ Collab?     · Fuhhh yuhhh
 
 <!-- Add your projects here -->
 
-* 📈 **[Git Stats](https://github.com/rohitb47/git-stats)** - flex your git stats to employers and world.
-
+- 📈 **[Git Stats](https://github.com/rohitb47/git-stats)** - flex your git stats to employers and world.
 
 ## Past Projects
 
