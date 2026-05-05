@@ -1,6 +1,4 @@
-<a href="https://github.com/rohitb47">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=FFFFFF&center=false&vCenter=true&width=700&lines=Hi%2C+I'm+Rohit+%F0%9F%91%8B;Builder.+Thinker.+Always+Curious." alt="Typing SVG" />
-</a>
+# Hi, I am Rohit 👋
 
 <br/>
 
