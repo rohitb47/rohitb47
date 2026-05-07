@@ -37,7 +37,6 @@ Collab?     · Fuhhh yuhhh
 <!-- Add your projects here -->
 
 - 💰 **[47Studio](https://47studio.rohitbajaj.dev)** - solo dev shop in the age of AI. shipping real stuff for real clients. 3+ clients, may 2026.
-- 🚀 **[PreFlight](https://preflight.rohitbajaj.dev)** - stop building things nobody wants. validate your idea before writing a single line of code.
 - 🥇 **[GitStats](https://git-stats.rohitbajaj.dev)** - github's contribution view, but actually good.
 - 🧑‍💻 **[Portfolio](https://rohitbajaj.dev)** - personal site. built brick by brick. work in progress.
 
@@ -50,6 +49,7 @@ Collab?     · Fuhhh yuhhh
 
 > ideas that had a moment. most never shipped. all had good UI.
 
+- 🚀 **[PreFlight](https://preflight.rohitbajaj.dev)** - stop building things nobody wants. validate your idea before writing a single line of code.
 - 🧪 **[VoidStudio](https://voidstudio.rohitbajaj.dev)** - built when MCP was new and remote MCP hosts weren't a thing yet. started as an experiment with agents before agentic workflows were mainstream — ended up as a frontend playground. never shipped anything agent-like, but spent a lot of time on the UI. uncommon aesthetic, lots of experiments. worth a look just for the interface.
 - 💬 **[Astrid](https://astrid.rohitbajaj.dev)** - built to understand how LLM chat systems work from the inside. functional chat app, but that was never really the point. the point was the micro interactions, the feel, the aesthetic. worth a look if you care about that kind of thing.
 - 🧭 **[DishaAI](https://disha.rohitbajaj.dev)** - an AI career assistant for job seekers in the age of AI. the idea was a context-aware agent that actually understands where you are in your career and helps you navigate what's next. got deep into the UI and the chat flow. never made it to the agent part.
